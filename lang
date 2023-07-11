@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<registrySnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <user>S-1-5-21-2862040124-4079485462-896008920-1000</user>
+  <keys>
+    <key installerType="Msi" displayName="Wazuh Agent" displayVersion="4.4.5">
+      <RegistryView>Registry32</RegistryView>
+      <KeyPath>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\{2E4098ED-A788-4736-9D4F-31E6D3AEB6FB}</KeyPath>
+      <DefaultValue />
+      <InstallLocation><![CDATA[]]></InstallLocation>
+      <UninstallString><![CDATA[MsiExec.exe /X{2E4098ED-A788-4736-9D4F-31E6D3AEB6FB}]]></UninstallString>
+      <HasQuietUninstall>false</HasQuietUninstall>
+      <Publisher><![CDATA[Wazuh, Inc.]]></Publisher>
+      <InstallDate>20230711</InstallDate>
+      <InstallSource><![CDATA[C:\Users\vagrant\AppData\Local\Temp\chocolatey\wazuh-agent\4.4.5\]]></InstallSource>
+      <Language>1033</Language>
+      <Version>67371013</Version>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <SystemComponent>false</SystemComponent>
+      <WindowsInstaller>true</WindowsInstaller>
+      <NoRemove>false</NoRemove>
+      <NoModify>true</NoModify>
+      <NoRepair>true</NoRepair>
+      <ReleaseType />
+      <ParentKeyName />
+      <LocalPackage><![CDATA[C:\Windows\Installer\3ff05.msi]]></LocalPackage>
+    </key>
+  </keys>
+</registrySnapshot>
